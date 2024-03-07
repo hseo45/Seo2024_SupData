@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/767642434.svg)](https://zenodo.org/doi/10.5281/zenodo.10783108)
 # Seo2024_SupData
 Supplemental data for paper "A timeline of biosynthetic gene cluster discovery in Aspergillus fumigatus: from characterization to future perspectives."
 
